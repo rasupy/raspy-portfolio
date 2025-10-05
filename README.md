@@ -55,6 +55,10 @@
 
 タスク管理アプリ。フロントエンド開発とバッグエンド開発を分離した SPA 構成（Docker 対応）。タスクの CRUD（データベース）、フィルタ、並び替えなどの基本機能を実装。
 
+#### 2. [d-anime-scraper](https://github.com/rasupy/d-anime-scraper.git)
+
+d-アニメサイトから今期アニメの情報をスクレイピングして CSV に出力（画像ファイルも取得）するツール。アニメのレビューまとめ等に利用。
+
 ### 📘 学習記録・チュートリアル
 
 #### 1. [about-tutorial](https://github.com/rasupy/about-tutorial.git)
